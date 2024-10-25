@@ -1,0 +1,218 @@
+{
+  "recipes": [
+    {
+      "category": "GEMÜSE",
+      "items": [
+        {
+          "name": "Blumenkohl",
+          "menge": "500 g",
+          "vorbereitung": "In 2.5 cm große Röschen geschnitten",
+          "in_oel_schwenken": "2 EL",
+          "temperatur": "200",
+          "garzeit": "10-12"
+        },
+        {
+          "name": "Brokkoli",
+          "menge": "400 g",
+          "vorbereitung": "In 2.5 cm große Röschen geschnitten",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "11"
+        },
+        {
+          "name": "Butternusskürbis",
+          "menge": "500 - 750 g",
+          "vorbereitung": "In 2.5 cm große Stücke geschnitten",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "16-18"
+        },
+        {
+          "name": "Grüne Bohnen",
+          "menge": "400 g",
+          "vorbereitung": "Enden abgeschnitten",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "7-8"
+        },
+        {
+          "name": "Grünkohl (für Chips)",
+          "menge": "225 g",
+          "vorbereitung": "In Stücke geteilt, Strünke entfernt",
+          "in_oel_schwenken": "Kein Öl",
+          "temperatur": "150",
+          "garzeit": "9"
+        },
+        {
+          "name": "Kartoffeln, weiß (King Edward, Maris Piper oder Russet)",
+          "menge": "1 kg",
+          "vorbereitung": "In 2.5 cm große Spalten geschnitten",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "22-26"
+        },
+        {
+          "name": "Kartoffeln, weiß (King Edward, Maris Piper oder Russet)",
+          "menge": "500 g",
+          "vorbereitung": "Handgeschnittene Chips*, dünn",
+          "in_oel_schwenken": "½-3 EL Pflanzenöl",
+          "temperatur": "200",
+          "garzeit": "16-18"
+        },
+        {
+          "name": "Maiskolben",
+          "menge": "4 Kolben",
+          "vorbereitung": "Ganze Kolben ohne Hülsen",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "15-18"
+        }
+      ]
+    },
+    {
+      "category": "GEFLÜGEL",
+      "items": [
+        {
+          "name": "Entenbrust",
+          "menge": "2 Brüste (400 g)",
+          "vorbereitung": "Haut einschneiden, mit der Brust nach unten braten, nach der Hälfte der Garzeit umdrehen",
+          "in_oel_schwenken": "Kein Öl",
+          "temperatur": "200",
+          "garzeit": "18-22"
+        },
+        {
+          "name": "Hähnchenbrust",
+          "menge": "4 (600 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "15-16"
+        },
+        {
+          "name": "Hähnchenflügel",
+          "menge": "1 kg",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "27-30"
+        },
+        {
+          "name": "Hähnchenschenkel",
+          "menge": "6 Schenkel (je 125-150 g/750-900 g)",
+          "vorbereitung": "Mit Knochen",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "19-22"
+        }
+      ]
+    },
+    {
+      "category": "FISCH UND MEERESFRÜCHTE",
+      "items": [
+        {
+          "name": "Fischfrikadellen",
+          "menge": "2 Frikadellen (je 145 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "12"
+        },
+        {
+          "name": "Garnelen",
+          "menge": "16 agroße (165 g)",
+          "vorbereitung": "Ganz, geschält, mit Schwanz",
+          "in_oel_schwenken": "1 EL",
+          "temperatur": "200",
+          "garzeit": "3-4"
+        },
+        {
+          "name": "Kabeljaufilets",
+          "menge": "2 Filets (280 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "6-8"
+        },
+        {
+          "name": "Lachsfilets",
+          "menge": "4 Filets (520 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestreichen",
+          "temperatur": "200",
+          "garzeit": "12-14"
+        }
+      ]
+    },
+    {
+      "category": "RIND",
+      "items": [
+        {
+          "name": "Burger",
+          "menge": "4 (jeweils 113 g)",
+          "vorbereitung": "2,5 cm dick",
+          "in_oel_schwenken": "Kein Öl",
+          "temperatur": "190",
+          "garzeit": "11-12"
+        },
+        {
+          "name": "Steaks",
+          "menge": "2 Steaks (jeweils 230 g)",
+          "vorbereitung": "Ganz",
+          "in_oel_schwenken": "Mit Öl bestrichen",
+          "temperatur": "200",
+          "garzeit": "8-12"
+        }
+      ]
+    },
+    {
+      "category": "SCHWEINEFLEISCH",
+      "items": [
+        {
+          "name": "Bacon (Speck)",
+          "menge": "4 Streifen",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Kein Öl",
+          "temperatur": "220",
+          "garzeit": "6"
+        },
+        {
+          "name": "Schweinefilets",
+          "menge": "2 (je 350-500g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestrichen",
+          "temperatur": "190",
+          "garzeit": "22-27"
+        },
+        {
+          "name": "Schweinekoteletts",
+          "menge": "2 dick geschnittene Koteletts mit Knochen (jeweils 250 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestrichen",
+          "temperatur": "200",
+          "garzeit": "12-13"
+        }
+      ]
+    },
+    {
+      "category": "LAMM",
+      "items": [
+        {
+          "name": "Lammkoteletts",
+          "menge": "4 (340 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestrichen",
+          "temperatur": "180",
+          "garzeit": "11-12"
+        },
+        {
+          "name": "Lammsteak",
+          "menge": "3 (300 g)",
+          "vorbereitung": "Keine",
+          "in_oel_schwenken": "Mit Öl bestrichen",
+          "temperatur": "180",
+          "garzeit": "12-13"
+        }
+      ]
+    }
+  ]
+}

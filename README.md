@@ -1,13 +1,41 @@
 # Ninja Air Fryer Kochtabelle
 
-I've transferred the German recipes from the official guidebook to this website to quickly access them without dealing with the deteriorating paper manual. All recipes are the property of SharkNinja, Inc. The rest of this repo is in German.
+Eine interaktive Webanwendung zur Verwaltung von Kochrezepten für den Ninja Air Fryer.
 
-Ich habe die Rezepte aus dem offiziellen Handbuch auf diese Website übertragen, um sie schnell abrufen zu können. Alle Rezepte und Angaben sind Eigentum von SharkNinja, Inc.
+## Features
 
-Link: [Ninja Air Fryer Kochtabelle](https://lloesche.github.io/ninja-kochtabelle/)
+- Direkte Bearbeitung der Tabellenzellen
+- Kategorisierte Rezepte
+- Suchfunktion
+- Import/Export von Rezepten
+- Netzwerkzugriff über lokales WLAN
 
-![QR Code on Air Fryer](https://raw.githubusercontent.com/lloesche/ninja-kochtabelle/main/qr_code_on_air_fryer.jpg "QR Code on Air Fryer")
+## Installation & Start
 
-QR Code zum aufkleben auf die Heißluftfritteuse. Bild mit ~10% Größe drucken.
+1. Stelle sicher, dass Python 3.x installiert ist
+2. Starte den Server:
+   ```bash
+   python server.py
+   ```
+3. Der Server zeigt die URLs an, unter denen die Anwendung erreichbar ist:
+   - Lokal: http://localhost:8000
+   - Netzwerk: http://[DEINE-IP]:8000
 
-![Ninja Air Fryer Kochtabelle](https://raw.githubusercontent.com/lloesche/ninja-kochtabelle/main/qrcode.png "Ninja Air Fryer Kochtabelle")
+## Verwendung
+
+- Direkte Bearbeitung: Klicke einfach in eine Tabellenzelle und bearbeite den Inhalt
+- Neue Rezepte: Klicke auf "Neue Zutat hinzufügen"
+- Suche: Nutze das Suchfeld um Rezepte zu filtern
+- Import/Export: Nutze die entsprechenden Buttons um Daten zu sichern oder zu laden
+
+## NFC Tag Einrichtung
+
+1. Erstelle einen NFC Tag mit der URL: http://[DEINE-IP]:8000
+2. Platziere den NFC Tag am Air Fryer
+3. Scanne den Tag mit einem Smartphone um die Kochtabelle zu öffnen
+
+## Technische Details
+
+- Die Daten werden in `data/data.json` gespeichert
+- Der Server unterstützt automatisches Speichern und CORS
+- Alle Änderungen werden sofort gespeichert
